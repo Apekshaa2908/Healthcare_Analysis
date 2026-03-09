@@ -1,0 +1,33 @@
+# Secrets
+.env
+
+# Python scripts (excluded per project requirement)
+*.py
+
+# Python cache
+**/__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+.venv/
+
+# Excluded PDFs (per project requirement)
+CaseStudy_Analytics.pdf
+
+# macOS metadata
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Logs / temp
+*.log
+*.tmp
+
+
